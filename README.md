@@ -57,11 +57,3 @@ This script is written in Python and does not require any additional libraries o
 Strong passwords are essential for keeping your online accounts secure from cyber threats. By using this tool, you can generate passwords that are both random and complex, making it harder for attackers to crack them. Perfect for anyone who values online security!
 
 ---
-
-## **Contributing**
-Feel free to contribute to this project! Open an issue, submit a pull request, or suggest features for improvement.
-
----
-
-## **License**
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
